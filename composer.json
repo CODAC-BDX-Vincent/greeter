@@ -1,0 +1,13 @@
+{
+    "name": "simplexi/greeter",
+    "description": "Greeter - A simple Laravel package.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greeter\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
